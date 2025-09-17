@@ -1,3 +1,7 @@
+## 0.3.4
+
+- update dependency dev constrait for `build` to `^4.0.0` forcompatibility with `jaspr `0.21.0`
+
 ## 0.3.3
 
 - Transfer ownership
